@@ -14,5 +14,6 @@ export default defineConfig({
       }
     },
   },
+  base:'/react-todo/',
   plugins: [react()],
 })
