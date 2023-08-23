@@ -1,0 +1,9 @@
+
+
+body{
+  background: linear-gradient(to left,red,purple,blue);
+}
+
+/* body {
+  background: linear-gradient(to right, #845af7,rgb(47, 168, 142),rgb(145, 18, 170), #3c99b8, #6145fe);
+} */
